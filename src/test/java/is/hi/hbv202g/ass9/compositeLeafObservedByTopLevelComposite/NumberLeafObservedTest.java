@@ -1,9 +1,12 @@
 package is.hi.hbv202g.ass9.compositeLeafObservedByTopLevelComposite;
 
 import static org.junit.Assert.*;
-
+import is.hi.hbv202g.ass9.compositeLeafObservedByComposite.MultiplyComposite;
+import is.hi.hbv202g.ass9.compositeLeafObservedByComposite.NumberLeaf;
 import org.junit.Before;
+import is.hi.hbv202g.ass9.compositeLeafObservedByComposite.Observer;
 import org.junit.Test;
+
 
 public class NumberLeafObservedTest implements Observer {
 

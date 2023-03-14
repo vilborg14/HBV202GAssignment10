@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+import is.hi.hbv202g.ass9.compositeLeafObserverTemplateMethod.*;
 
 public class PlusCompositeTest {
 
