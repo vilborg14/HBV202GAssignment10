@@ -15,7 +15,10 @@ Both the implementation and the tests are in Java package `is.hi.hbv202g.ass9`, 
   - `is.hi.hbv202g.ass9.compositeLeafObserverTemplateMethod`: The same test cases for testing the refactoring of the above patterns inspired by the template method pattern.
 
 Maven:
-
+- `mvn run` executes the main method, "CompositeMain"
 - `mvn compile` compiles all implementation classes.
 - `mvn test` runs all test cases (i.e. all classes with a name that either starts with `Test` or ends with `Test`, `Tests`, or `TestCase`).
 
+License: [MIT](LICENSE.TXT)
+
+Design: [Class Diagram](src/site/markdown/DESIGN.md)
